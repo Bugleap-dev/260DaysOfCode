@@ -3,6 +3,7 @@
 ```python
 print("Hello, World!")
 ### 📋 **Lists**
+```
 - Bullet list:
   ```md
   - Item 1
