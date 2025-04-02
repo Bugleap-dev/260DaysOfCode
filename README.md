@@ -10,7 +10,7 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 ```
 
 ## 📜 Roadmap
-
+```
 1️⃣ CS50P - Python Fundamentals
 2️⃣ CS50X - Computer Science Basics
 3️⃣ JavaScript, HTML & CSS
@@ -18,9 +18,9 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 5️⃣ Blockchain Basics & Solidity
 6️⃣ Smart Contract Security
 7️⃣ Backend Development (Node.js)
-
+```
 ### 📂 Repository Structure
-
+```
 275DaysOfCode/
 │── day-001/
 │   ├── notes.md
@@ -31,3 +31,4 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 │── projects/
 │── docs/
 │── README.md
+```
