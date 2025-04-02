@@ -1,14 +1,11 @@
 # 🚀 275 Days of Code Challenge
-```📌 Overview
-
+📌 Overview
 Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I learn blockchain, AI, and full-stack development. This repo contains daily logs, code snippets, projects, and reflections.
-```
+
 
 ## 📅 Challenge Timeline
-```md
 -📆 Start Date: April 1, 2025
 -🏁 End Date: December 31, 2025
-```
 
 ### 📜 Roadmap
 ```
@@ -29,6 +26,9 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 │── day-002/
 │   ├── notes.md
 │   ├── project.js
+│── day-.../
+│   ├── notes.md
+│   ├── code.py
 │── projects/
 │── docs/
 │── README.md
@@ -37,4 +37,6 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 
 🐦 Twitter: [@Bugleap](https://x.com/Bugleap)
 
-👨‍💻 GitHub: Bugleap-dev
+👨‍💻 GitHub: [Bugleap-dev](https://github.com/Bugleap-dev/)
+
+📫 My Email: bugleap.dev@gmail.com
