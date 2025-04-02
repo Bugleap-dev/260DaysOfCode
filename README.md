@@ -44,4 +44,4 @@ I'm documenting my journey as I learn **blockchain, AI, and full-stack developme
 
 👨‍💻 GitHub: [Bugleap-dev](https://github.com/Bugleap-dev/)
 
-📫 My Email: [bugleap.dev@gmail.com](bugleap.dev@gmail.com)
+📫 My Email: bugleap.dev@gmail.com
