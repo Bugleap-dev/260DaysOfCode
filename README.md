@@ -6,4 +6,9 @@ print("Hello, World!")
 - Bullet list:
   ```md
   - Item 1
-  - Item 2
+  - Item 2 
+
+| Name  | Skill  |
+|-------|--------|
+| Idris | Python |
+| John  | JS     |
