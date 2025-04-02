@@ -18,7 +18,7 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 6️⃣ Smart Contract Security
 7️⃣ Backend Development (Node.js)
 ```
-#### 📂 Repository Structure
+### 📂 Repository Structure
 ```
 275DaysOfCode/
 │── day-001/
@@ -34,7 +34,7 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 │── docs/
 │── README.md
 ```
-📬 Connect with Me
+### 📬 Connect with Me
 
 🐦 Twitter: [@Bugleap](https://x.com/Bugleap)
 
