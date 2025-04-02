@@ -1,4 +1,4 @@
-#🚀 275 Days of Code Challenge
+# 🚀 275 Days of Code Challenge
 `📌 Overview
 
 Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I learn blockchain, AI, and full-stack development. This repo contains daily logs, code snippets, projects, and reflections.
@@ -9,7 +9,7 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 🏁 End Date: December 31, 2025
 ```
 
-##📜 Roadmap
+## 📜 Roadmap
 
 1️⃣ CS50P - Python Fundamentals
 2️⃣ CS50X - Computer Science Basics
@@ -19,7 +19,7 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 6️⃣ Smart Contract Security
 7️⃣ Backend Development (Node.js)
 
-###📂 Repository Structure
+### 📂 Repository Structure
 
 275DaysOfCode/
 │── day-001/
