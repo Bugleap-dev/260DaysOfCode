@@ -4,7 +4,8 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 
 
 ## 📅 Challenge Timeline
--📆 Start Date: April 1, 2025
+-📆 Start Date: April 1, 2025 
+
 -🏁 End Date: December 31, 2025
 
 ### 📜 Roadmap
@@ -39,4 +40,4 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 
 👨‍💻 GitHub: [Bugleap-dev](https://github.com/Bugleap-dev/)
 
-📫 My Email: bugleap.dev@gmail.com
+📫 My Email: [bugleap.dev@gmail.com](bugleap.dev@gmail.com)
