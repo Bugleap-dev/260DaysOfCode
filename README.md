@@ -34,7 +34,7 @@ Welcome to my 275 Days of Code challenge! 🚀 I'm documenting my journey as I l
 │── docs/
 │── README.md
 ```
-##### 📬 Connect with Me
+##### 📬 CONNECT WITH ME
 🐦 Twitter: [@Bugleap](https://x.com/Bugleap)
 
 👨‍💻 GitHub: [Bugleap-dev](https://github.com/Bugleap-dev/)
