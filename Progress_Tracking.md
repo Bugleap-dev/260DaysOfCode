@@ -1,0 +1,1 @@
+Day 1	Complete Lesson 1	✅ Done	Learned about Python basics.
