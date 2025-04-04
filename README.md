@@ -1,6 +1,6 @@
 # 🚀 270 Days of Code Challenge
 📌 Overview
-Welcome to my **275 Days of Code** challenge! 🚀  
+Welcome to my **270 Days of Code** challenge! 🚀  
 I'm documenting my journey as I learn **blockchain, AI, and full-stack development**. This repo contains **daily logs, code snippets, projects, and reflections.**  [#AI](https://x.com/search?q=%23AI&src=typed_query) [#bugleap](https://x.com/search?q=%23bugleap&src=typed_query&f=top)
   
 ## 📅 Challenge Timeline  
@@ -11,7 +11,6 @@ I'm documenting my journey as I learn **blockchain, AI, and full-stack developme
 1️⃣  **CS50P - Python Fundamentals:**
    * Description: Introduction to programming using Python, covering data structures, algorithms, and object-oriented programming.
    * Resources: Harvard's CS50P online course on edX. [CS50P on edX](https://cs50.harvard.edu/python/)
-
    * Duration: 4 weeks
 
 2️⃣  **CS50X - Computer Science Basics:**
