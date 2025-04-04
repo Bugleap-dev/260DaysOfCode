@@ -1,10 +1,10 @@
-# 🚀 275 Days of Code Challenge
+# 🚀 270 Days of Code Challenge
 📌 Overview
 Welcome to my **275 Days of Code** challenge! 🚀  
 I'm documenting my journey as I learn **blockchain, AI, and full-stack development**. This repo contains **daily logs, code snippets, projects, and reflections.**  [#AI](https://x.com/search?q=%23AI&src=typed_query) [#bugleap](https://x.com/search?q=%23bugleap&src=typed_query&f=top)
   
 ## 📅 Challenge Timeline  
-- 📆 **Start Date:** April 1, 2025  
+- 📆 **Start Date:** April 5, 2025  
 - 🏁 **End Date:** December 31, 2025  
 
 ## 📜 Roadmap  
@@ -19,7 +19,7 @@ I'm documenting my journey as I learn **blockchain, AI, and full-stack developme
 
 ## 📂 Repository Structure  
 ```bash
-275DaysOfCode/
+270DaysOfCode/
 │── day-001/
 │   ├── notes.md
 │   ├── code.py
