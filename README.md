@@ -9,12 +9,12 @@ I'm documenting my journey as I learn **blockchain, AI, and full-stack developme
 
 ## 📜 Roadmap  
 1️⃣  **CS50P - Python Fundamentals:**
-    * Description: Introduction to programming using Python, covering data structures, algorithms, and object-oriented programming.
+   * Description: Introduction to programming using Python, covering data structures, algorithms, and object-oriented programming.
     * Resources: Harvard's CS50P online course on edX.
     * Duration: 4 weeks
 
 2️⃣  **CS50X - Computer Science Basics:**
-    * Description: A broader introduction to computer science concepts, including algorithms, data structures, memory management, and more.
+   * Description: A broader introduction to computer science concepts, including algorithms, data structures, memory management, and more.
     * Resources: Harvard's CS50X online course on edX.
     * Duration: 8 weeks
 
