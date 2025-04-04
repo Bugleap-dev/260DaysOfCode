@@ -4,8 +4,8 @@ Welcome to my **275 Days of Code** challenge! 🚀
 I'm documenting my journey as I learn **blockchain, AI, and full-stack development**. This repo contains **daily logs, code snippets, projects, and reflections.**  [#AI](https://x.com/search?q=%23AI&src=typed_query) [#bugleap](https://x.com/search?q=%23bugleap&src=typed_query&f=top)
   
 ## 📅 Challenge Timeline  
-- 📆 **Start Date:** April 5, 2025  
-- 🏁 **End Date:** December 31, 2025  
+- 📆 **Start Date:** April 4, 2025  
+- 🏁 **End Date:** December 30, 2025  
 
 ## 📜 Roadmap  
 1️⃣ **CS50P - Python Fundamentals**  
