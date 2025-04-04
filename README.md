@@ -10,58 +10,58 @@ I'm documenting my journey as I learn **blockchain, AI, and full-stack developme
 ## 📜 Roadmap  
 1️⃣  **CS50P - Python Fundamentals:**
    * Description: Introduction to programming using Python, covering data structures, algorithms, and object-oriented programming.
-    * Resources: Harvard's CS50P online course on edX.
-    * Duration: 4 weeks
+   * Resources: Harvard's CS50P online course on edX.
+   * Duration: 4 weeks
 
 2️⃣  **CS50X - Computer Science Basics:**
    * Description: A broader introduction to computer science concepts, including algorithms, data structures, memory management, and more.
-    * Resources: Harvard's CS50X online course on edX.
-    * Duration: 8 weeks
+   * Resources: Harvard's CS50X online course on edX.
+   * Duration: 8 weeks
 
 3️⃣  **JavaScript, HTML & CSS:**
-    * Description: Front-end web development essentials, building interactive web pages.
-    * Resources:
-        * MDN Web Docs
-        * FreeCodeCamp
-    * Duration: 7 weeks
-    * Project Ideas:
+   * Description: Front-end web development essentials, building interactive web pages.
+   * Resources:
+       * MDN Web Docs
+       * FreeCodeCamp
+   * Duration: 7 weeks
+   * Project Ideas:
         * Personal portfolio website
         * Simple to-do list application
 
 4️⃣  **Data Analysis:**
-    * Description: Using Python libraries like Pandas and NumPy for data manipulation and analysis.
-    * Resources:
-        * "Python for Data Analysis" by Wes McKinney
-    * Duration: 6 weeks
-    * Project Ideas:
-        * Analyze a public dataset and visualize trends
-        * Build a simple data dashboard
+   * Description: Using Python libraries like Pandas and NumPy for data manipulation and analysis.
+   * Resources:
+       * "Python for Data Analysis" by Wes McKinney
+   * Duration: 6 weeks
+   * Project Ideas:
+       * Analyze a public dataset and visualize trends
+       * Build a simple data dashboard
 
 5️⃣  **Blockchain Basics & Solidity:**
-    * Description: Introduction to blockchain technology and developing smart contracts with Solidity.
-    * Resources:
-        * CryptoZombies
-        * Solidity documentation
-    * Duration: 6 weeks
-    * Project Ideas:
-        * Simple token contract
-        * Decentralized voting system
+   * Description: Introduction to blockchain technology and developing smart contracts with Solidity.
+   * Resources:
+       * CryptoZombies
+       * Solidity documentation
+   * Duration: 6 weeks
+   * Project Ideas:
+       * Simple token contract
+       * Decentralized voting system
 
 6️⃣  **Smart Contract Security:**
-    * Description: Learning about common vulnerabilities in smart contracts and best practices for secure development.
-    * Resources:
-        * OpenZeppelin
-    * Duration: 5 weeks
+   * Description: Learning about common vulnerabilities in smart contracts and best practices for secure development.
+   * Resources:
+      * OpenZeppelin
+   * Duration: 5 weeks
 
 7️⃣  **Backend Development (Node.js):**
-    * Description: Building server-side applications with Node.js and Express.
-    * Resources:
-        * Node.js documentation
-        * Express.js documentation
-    * Duration: 5 weeks
-    * Project Ideas:
-        * RESTful API for a web application
-        * Real-time chat application (if ambitious)
+   * Description: Building server-side applications with Node.js and Express.
+   * Resources:
+       * Node.js documentation
+       * Express.js documentation
+   * Duration: 5 weeks
+   * Project Ideas:
+       * RESTful API for a web application
+       * Real-time chat application (if ambitious)
 
 ## 📂 Repository Structure  
 ```bash
