@@ -41,7 +41,7 @@
 **FROM PYTHON DOCUMENATION:**
 - *docs.python.org/3/library/functions.html*
 
-**print(* objects,sep=' ',end='\n',file=sys.stdout,flush=False)**
+***print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)***
 
  - * *objects : the values to be printed. Can be multiple items.
     - * sep='' : seperator between the objects(default is a space).
