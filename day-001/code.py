@@ -44,12 +44,12 @@ print(type("hello"))
 #Output: str
 
 name2= "    Dan " 
-print(name2.lstrip) #Output:    Dan
-print(name2.rstrip) #Output:Dan
-print(name2.strip)  #Output:Dan
+print(name2.lstrip()) #Output:    Dan
+print(name2.rstrip()) #Output:Dan
+print(name2.strip())  #Output:Dan
 
 name3 = "daVid maLan"
 first,last = name3.split(" ")
-print(name3.capitalize) #Output: David malan
-print(name3.title)      #Output: David Malan
+print(name3.capitalize()) #Output: David malan
+print(name3.title())      #Output: David Malan
 print(first)            #Output:daVid
