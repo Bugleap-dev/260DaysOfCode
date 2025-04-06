@@ -36,9 +36,10 @@
    * Using + (Concatenation Operator): joins strings together with no space. Both operands must be string.
    * Using , (concatenation operator): Automatically adds a space between items. Can mix data types(e.g string and int without conversion).
 
-- **FROM PYTGON DOCUMENATION:**
-    *docs.python.org/3/library/functions.html*
+**FROM PYTGON DOCUMENATION:**
+- *docs.python.org/3/library/functions.html*
 ***print(* objects,sep=' ',end='\n',file=sys.stdout,flush=False)**
+
  - * *objects : the values to be printed. Can be multiple items.
     - * sep='' : seperator between the objects(default is a space).
     - * end=\n : what to print at the end(default is newline).
