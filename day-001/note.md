@@ -1,6 +1,7 @@
 **DAY 001 - 05/04/2025**
 
 **CS50P: Introduction To Programming with Python**
+**LECURE 0: Function_Variable**
 
 - **$code hello.py**: Creates a file "hello" in python(py) format
 
@@ -26,19 +27,20 @@
     * Name parameter: parameters that must be passed in the correct order.
     * Position parameter: parameters with default values, used if no argument is provided.
 
-- *DIFFERNCE BETWEEN ARGUMENTS AND PARAMETERS*
+- ***DIFFERNCE BETWEEN ARGUMENTS AND PARAMETERS***
    * Parameters acts a placeholder for the values that will be passed.
    * While Arguments are actual values passed to the function when you call it.
 
 - **Concatenation**: the process of joining two or more string into a new string. This is done using operators the ***plus operator (+).***
 
-- *DIFFERNCE BETWEEN USING COMMA(,) AND PLUS (+) FOR CONCATENATION*
+- ***DIFFERNCE BETWEEN USING COMMA(,) AND PLUS (+) FOR CONCATENATION***
    * Using + (Concatenation Operator): joins strings together with no space. Both operands must be string.
    * Using , (concatenation operator): Automatically adds a space between items. Can mix data types(e.g string and int without conversion).
 
-**FROM PYTGON DOCUMENATION:**
+**FROM PYTHON DOCUMENATION:**
 - *docs.python.org/3/library/functions.html*
-***print(* objects,sep=' ',end='\n',file=sys.stdout,flush=False)**
+
+**print(* objects,sep=' ',end='\n',file=sys.stdout,flush=False)**
 
  - * *objects : the values to be printed. Can be multiple items.
     - * sep='' : seperator between the objects(default is a space).
