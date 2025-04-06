@@ -2,7 +2,7 @@
 
 **CS50P: Introduction To Programming with Python**
     
-**LECURE 0: Function_Variable**
+# **LECURE 0: Function_Variable**
 
 - **$code hello.py**: Creates a file "hello" in python(py) format
 
@@ -41,7 +41,7 @@
 **FROM PYTHON DOCUMENATION:**
 - *docs.python.org/3/library/functions.html*
 
-***print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)***
+- print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)
 
  - * *objects : the values to be printed. Can be multiple items.
     - * sep='' : seperator between the objects(default is a space).
@@ -53,5 +53,22 @@
     - * Using Escape character(\n)
     - * Using Different quotation mark, single quotation(''), double quotation, (""), triple quoatation("' '")
 
+- **F-string**: is a way to make strings that include variables or expressions directly inside them by putting an **f** before the string and using {} to insert values.
 
+## **STRING**
+* String is a sequence of characters, enclosed in single (''), double ("") and triple ('""')quotes.
+
+-  * **STRING FUNCTION**: is any function that works with strings -either built in functions like len(),or methods like uppper().
+   - * len(): returns the length of a sting.
+   - * str(): converts other data types into string.
+   - * type(): tells you the data type.
+
+- * **STRING METHODS**:is a built-in function in python that you can use with strings to perform specific tasks like changing text, finding things or formatting. **Method** is a function that is associated with an object.**Functions** are independent and can work on different types of data, while methods are attached to objects and work only on that specific type.
+
+   - * .strip(): is used to remove leading and trailing whitespaces from a string. 
+      - * .lstrip(): removes left space only.
+      - * .rstrip(): removes right space only.
+   - * capitalize(): convert the first character of a string and the rest to lowercases.
+   - * .title(): capitalizes the first letter of each word in a string while converting the rest to lowercase. 
+   - * .split(): is used to split a string into a list based in a separator(like a space or comma)
 
