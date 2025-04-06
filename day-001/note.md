@@ -18,12 +18,12 @@ CS50P: Introduction To Programming with Python
 
 - **Variable**: is a placeholder for information you wabt python to recall later in the coding process when you need to complete an action.
 
--**Comments**: are notes in a code, it is written with an **Hash(#)** at the beginning or three quotation marks at the beginnig and end for multiple lines (""").
+-   **Comments**: are notes in a code, it is written with an **Hash(#)** at the beginning or three quotation marks at the beginnig and end for multiple lines (""").
 
--**Pseudo-code**: is plain English, half code otline describing a program's logic, serving as a blueprint before writng actual code, using the **Hash (#)** for comments.
+-   **Pseudo-code**: is plain English, half code otline describing a program's logic, serving as a blueprint before writng actual code, using the **Hash (#)** for comments.
 
 -   **Parameters**: are variables used in function defintions to accept input values when the function is called.
-    * Name parameter**: parameters that must be passed in the correcr order.
-    * Postion parameter**: parameters with default values, used if no argument is provided.
+    * Name parameter: parameters that must be passed in the correcr order.
+    * Postion parameter: parameters with default values, used if no argument is provided.
 
  
