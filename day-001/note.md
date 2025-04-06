@@ -22,8 +22,8 @@ CS50P: Introduction To Programming with Python
 
 -**Pseudo-code**: is plain English, half code otline describing a program's logic, serving as a blueprint before writng actual code, using the **Hash (#)** for comments.
 
--**Parameters**: are variables used in function defintions to accept input values when the function is called.
-    - **Name parameter**: parameters that must be passed in the correcr order.
-    -**Postion parameter**: parameters with default values, used if no argument is provided.
+-   **Parameters**: are variables used in function defintions to accept input values when the function is called.
+    * Name parameter**: parameters that must be passed in the correcr order.
+    * Postion parameter**: parameters with default values, used if no argument is provided.
 
  
