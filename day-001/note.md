@@ -1,6 +1,6 @@
-DAY ONE - 05/04/2025
+**DAY ONE - 05/04/2025**
 
-CS50P: Introduction To Programming with Python
+**CS50P: Introduction To Programming with Python**
 
 - **$code hello.py**: Creates a file "hello" in python(py) format
 
@@ -18,7 +18,7 @@ CS50P: Introduction To Programming with Python
 
 - **Variable**: is a placeholder for information you wabt python to recall later in the coding process when you need to complete an action.
 
--   **Comments**: are notes in a code, it is written with an **Hash(#)** at the beginning or three quotation marks at the beginnig and end for multiple lines (""").
+-   **Comments**: are notes in a code, it is written with an **Hash(#)** at the beginning or three quotation marks at the beginnig and end for multiple lines (" " ").
 
 -   **Pseudo-code**: is plain English, half code otline describing a program's logic, serving as a blueprint before writng actual code, using the **Hash (#)** for comments.
 
