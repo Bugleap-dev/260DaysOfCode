@@ -1,7 +1,7 @@
 **DAY 001 - 05/04/2025**
 
 **CS50P: Introduction To Programming with Python**
-**LECURE 0: Function_Variable**
+    **LECURE 0: Function_Variable**
 
 - **$code hello.py**: Creates a file "hello" in python(py) format
 
