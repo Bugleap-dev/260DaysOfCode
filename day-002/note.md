@@ -12,7 +12,7 @@ CONTINUATION OF **LECURE 0: Function_Variable**
    - * str(): converts other data types into string.
    - * type(): tells you the data type.
 
-- * **STRING METHODS**:is a built-in function in python that you can use with strings to perform specific tasks like changing text, finding things or formatting. **Method** is a function that is associated with an object.**Functions** are independent and can work on different types of data, while methods are attached to objects and work only on that specific type.
+- * **STRING METHODS**:is a built-in function in python that you can use with strings to perform specific tasks like changing text, finding things or formatting. **Method** is a function that is associated with an object. **Functions** are independent and can work on different types of data, while methods are attached to objects and work only on that specific type.
 
    - * .strip(): is used to remove leading and trailing whitespaces from a string. 
       - * .lstrip(): removes left space only.
@@ -26,12 +26,12 @@ CONTINUATION OF **LECURE 0: Function_Variable**
 - Float are numbers with a decimal point or in exponential form, properly called a floating point value, e.g, 3.14, -0.5, 2.0, 1e3,3e5,etc.
 
 - * Arithmetic operatoes:
-   - * Addition (+): adds two values.
-   - * Sutraction(-):subtracts the right operand from the left.
-   - * Multiplication(*): multiplies teo values.
-   - * Division(/): divides and return a float.
-   - * Floor(//): divides and retuen the integer part (floor) of the result.
-   - * Modulus(%): returns the remainder of the division.
+   - * **Addition (+)**: adds two values.
+   - * **Sutraction(-)**:subtracts the right operand from the left.
+   - * **Multiplication(*)**: multiplies teo values.
+   - * **Division(/)**: divides and return a float.
+   - * **Floor(//)**: divides and retuen the integer part (floor) of the result.
+   - * **Modulus(%)**: returns the remainder of the division.
 
 ```md
 >>> 1+2
@@ -85,6 +85,6 @@ CONTINUATION OF **LECURE 0: Function_Variable**
    ```
 
 - ***Return VS Print***
-   - * *return* sends data to caller, while *print* just shows data to the screen.
-   - * *return* is used in calculation and logic, whereas *print* is used for debugging and displaying,
-   - * *return* function output is usable, while *print* output is not usable in code.
+   - * ***return*** sends data to caller, while ***print*** just shows data to the screen.
+   - * ***return*** is used in calculation and logic, whereas ***print*** is used for debugging and displaying,
+   - * ***return*** function output is usable, while ***print*** output is not usable in code.
