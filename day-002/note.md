@@ -1,8 +1,8 @@
 # **DAY 002 - 06/04/2025**
 
-# **CS50P: Introduction To Programming with Python**
+**CS50P: Introduction To Programming with Python**
     
-# CONTINUATION OF **LECURE 0: Function_Variable**
+CONTINUATION OF **LECURE 0: Function_Variable**
 
 ## **STRING**
 * String is a sequence of characters, enclosed in single (''), double ("") and triple ('""')quotes.
@@ -59,11 +59,16 @@
    - * From the Terminal/Command Line,
    - Just type *python* or *python3* (depending on your system).
 - * To Exit Interactive mode:
-   - * Press *Ctrl + Z*
+   - * Press ***Ctrl + Z***
 
+- **ROUND() FUNCTION**:
+- - Round() Function in python is used to round a number to the nearest integer or to a specified number if decimal places.
+- - Syntax = ***round(number[,ndigits])***
+   - * number: The number you want to round.
+   - * ndigits: number of decimal places to round to.
+      - - if omitted, it rounds to the nearest **whole number**.
+      - - if given, it rounds to that many decimal places.
+- ***NOTE:*** Python uses a rule called ***ROUND HALF TO EVEN***, ALSO KNOWN AS ***BANKER'S ROUNDING*** If a number is exactly halfway between two integers (like -2.5 is between -2 and -3 ), ***python will round to the nearest even number.***
 
-
-
-
-
-
+- * def function:
+   - * def is used to define a function.

@@ -6,6 +6,8 @@
 
 - **$code hello.py**: Creates a file "hello" in python(py) format
 
+- **Syntax**: refers to the sedof rules that defines hoe code must be written for the computer to understand it, i.e Syntax = the rules for writing code correctly.
+
 - **$python hello.py**: runs the python code "hello.py"
 
 - **Function** : is an action or a verb that lets you do something in the program.
@@ -41,7 +43,7 @@
 **FROM PYTHON DOCUMENATION:**
 - *docs.python.org/3/library/functions.html*
 
-- print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)
+- Print() Syntax: print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)
 
  - * *objects : the values to be printed. Can be multiple items.
     - * sep='' : seperator between the objects(default is a space).
