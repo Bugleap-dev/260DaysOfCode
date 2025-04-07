@@ -70,5 +70,5 @@ CONTINUATION OF **LECURE 0: Function_Variable**
       - - if given, it rounds to that many decimal places.
 - ***NOTE:*** Python uses a rule called ***ROUND HALF TO EVEN***, ALSO KNOWN AS ***BANKER'S ROUNDING*** If a number is exactly halfway between two integers (like -2.5 is between -2 and -3 ), ***python will round to the nearest even number.***
 
-- * def function:
+- * **def function:**
    - * def is used to define a function.
