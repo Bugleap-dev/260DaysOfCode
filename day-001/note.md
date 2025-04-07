@@ -22,11 +22,11 @@
 
 - **Variable**: is a placeholder for information you want python to recall later in the coding process when you need to complete an action.
 
--   **Comments**: are notes in a code, it is written with an **Hash(#)** at the beginning or three quotation marks at the beginning and end for multiple lines (" " ").
+- **Comments**: are notes in a code, it is written with an **Hash(#)** at the beginning or three quotation marks at the beginning and end for multiple lines (" " ").
 
--   **Pseudo-code**: is plain English, half code outline describing a program's logic, serving as a blueprint before writing actual code, using the **Hash (#)** for comments.
+- **Pseudo-code**: is plain English, half code outline describing a program's logic, serving as a blueprint before writing actual code, using the **Hash (#)** for comments.
 
--   **Parameters**: are variables used in function definitions to accept input values when the function is called.
+- **Parameters**: are variables used in function definitions to accept input values when the function is called.
     * Name parameter: parameters that must be passed in the correct order.
     * Position parameter: parameters with default values, used if no argument is provided.
 
@@ -43,7 +43,8 @@
 **FROM PYTHON DOCUMENATION:**
 - *docs.python.org/3/library/functions.html*
 
-- Print() Syntax: print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)
+- Print() Syntax: 
+``` print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)```
 
  - * *objects : the values to be printed. Can be multiple items.
     - * sep='' : seperator between the objects(default is a space).

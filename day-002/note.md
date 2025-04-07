@@ -63,7 +63,10 @@ CONTINUATION OF **LECURE 0: Function_Variable**
 
 - **ROUND() FUNCTION**:
 - - Round() Function in python is used to round a number to the nearest integer or to a specified number if decimal places.
-- - Syntax = ***round(number[,ndigits])***
+- - Syntax:
+   ```bash
+      round(number[,ndigits])
+   ```
    - * number: The number you want to round.
    - * ndigits: number of decimal places to round to.
       - - if omitted, it rounds to the nearest **whole number**.
@@ -76,6 +79,13 @@ CONTINUATION OF **LECURE 0: Function_Variable**
 - * **return statement:**
    - * return statement is used in a function to send a value back to the caller. It ends the function and returns the apecified value.
    - * reurn statement syntax:
-   - def *function*():
-    -    **return** value
-    
+   ```bash
+         def function():
+             return value
+   ```
+
+- ***Return VS Print***
+   - * *return* sends data to caller, while *print* just shows data to the screen.
+   - * *return* is used in calculation and logic, whereas *print* is used for debugging and displaying,
+   - * *return* function output is usable, while *print* output is not usable in code.
+   

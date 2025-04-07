@@ -86,13 +86,14 @@ def hello(to="World"):                      #Define the hello function with a de
 main()                                      #call the main function to start the program
 
 #return
+#1
 def add (a,b):
     return a+b
 
 result1 = add(3,4)
 print(result1)       #Output: 7
 
-#
+#2
 def main():                             #Define a function called main
     v = float(input("What's v? "))      #convert the user input into a float
     print("v squared is", square(v))
@@ -101,4 +102,6 @@ def square(n):                          #Define a function called square
     return n**2                         #Returns the square of the value n
 
 main()                                  #Calls the function main
+
+#3
 
