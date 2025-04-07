@@ -1,4 +1,4 @@
-**DAY 003 - 06/04/2025**
+**DAY 002 - 06/04/2025**
 
 **CS50P: Introduction To Programming with Python**
     
@@ -24,3 +24,46 @@
 ## - **INTEGER AND FLOAT**
 - Integers are whole numbers without a decimal point, e.g, 1, -5, 100, 0, etc.
 - Float are numbers with a decimal point or in exponential form, properly called a floating point value, e.g, 3.14, -0.5, 2.0, 1e3,3e5,etc.
+
+- * Arithmetic operatoes:
+   - * Addition (+): adds two values.
+   - * Sutraction(-):subtracts the right operand from the left.
+   - * Multiplication(*): multiplies teo values.
+   - * Division(/): divides and return a float.
+   - * Floor(//): divides and retuen the integer part (floor) of the result.
+   - * Modulus(%): returns the remainder of the division.
+
+```md
+>>> 1+2
+3
+>>> 5-1
+4
+>>> 5*2
+10
+>>> 1+2
+3
+>>> 5-1
+4
+>>> 5*2
+10
+>>> 7/2
+3.5
+>>> 9//5
+1
+>>> 7%5
+2
+```
+- **PYTHON INTERACTIVE MODE**
+- Python interactive mode is a way to run Python commands one at a time and get immediate feedback. It's super useful for testing small pieces of code, exploring libraries, or doing quick calculations.
+- * How to Access Interactive Mode:
+   - * From the Terminal/Command Line,
+   - Just type *python* or *python3* (depending on your system).
+- * To Exit Interactive mode:
+   - * Press *Ctrl + Z*
+
+
+
+
+
+
+

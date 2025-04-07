@@ -2,7 +2,7 @@
 
 **CS50P: Introduction To Programming with Python**
     
-# **LECURE 0: Function_Variable**
+# **LECTURE 0: Function_Variable**
 
 - **$code hello.py**: Creates a file "hello" in python(py) format
 
