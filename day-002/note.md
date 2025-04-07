@@ -72,3 +72,10 @@ CONTINUATION OF **LECURE 0: Function_Variable**
 
 - * **def function:**
    - * def is used to define a function.
+
+- * **return statement:**
+   - * return statement is used in a function to send a value back to the caller. It ends the function and returns the apecified value.
+   - * reurn statement syntax:
+   - def *function*():
+    -    **return** value
+    
