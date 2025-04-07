@@ -1,6 +1,6 @@
-**DAY 002 - 06/04/2025**
+# **DAY 002 - 06/04/2025**
 
-**CS50P: Introduction To Programming with Python**
+# **CS50P: Introduction To Programming with Python**
     
 # CONTINUATION OF **LECURE 0: Function_Variable**
 
