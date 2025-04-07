@@ -61,7 +61,7 @@ CONTINUATION OF **LECURE 0: Function_Variable**
 - * To Exit Interactive mode:
    - * Press ***Ctrl + Z***
 
-- **ROUND() FUNCTION**:
+###- **ROUND() FUNCTION**:
 - - Round() Function in python is used to round a number to the nearest integer or to a specified number if decimal places.
 - - Syntax:
    ```bash
@@ -73,10 +73,10 @@ CONTINUATION OF **LECURE 0: Function_Variable**
       - - if given, it rounds to that many decimal places.
 - ***NOTE:*** Python uses a rule called ***ROUND HALF TO EVEN***, ALSO KNOWN AS ***BANKER'S ROUNDING*** If a number is exactly halfway between two integers (like -2.5 is between -2 and -3 ), ***python will round to the nearest even number.***
 
-- * **def function:**
+###- * **DEF FUNCTION:**
    - * def is used to define a function.
 
-- * **return statement:**
+- * **RETURN statement:**
    - * return statement is used in a function to send a value back to the caller. It ends the function and returns the apecified value.
    - * reurn statement syntax:
    ```bash
@@ -88,4 +88,3 @@ CONTINUATION OF **LECURE 0: Function_Variable**
    - * *return* sends data to caller, while *print* just shows data to the screen.
    - * *return* is used in calculation and logic, whereas *print* is used for debugging and displaying,
    - * *return* function output is usable, while *print* output is not usable in code.
-   
