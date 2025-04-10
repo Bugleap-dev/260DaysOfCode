@@ -1,3 +1,7 @@
+#DAY 001 - 10/04/2025
+#CS50P: Introduction To Programming with Python
+#LECTURE 0: Function_Variable
+
 # print() - creates a new blank line.
 
 print("Hello", "World", "!", sep = "-")

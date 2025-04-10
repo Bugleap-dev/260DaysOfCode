@@ -1,5 +1,5 @@
 # CONTINUATION OF LECTURE 0: FUNCTION_VARIRABLE
-
+# DAY 2 - 11/04/2025
 name1 = input("What's your name: ")
 print(f"hello, {name1}")
 """
@@ -102,6 +102,3 @@ def square(n):                          #Define a function called square
     return n**2                         #Returns the square of the value n
 
 main()                                  #Calls the function main
-
-#3
-

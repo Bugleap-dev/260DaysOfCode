@@ -1,4 +1,4 @@
-# **DAY 001 - 05/04/2025**
+# **DAY 001 - 10/04/2025**
 
 # **CS50P: Introduction To Programming with Python**
     
