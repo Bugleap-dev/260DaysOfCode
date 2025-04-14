@@ -15,4 +15,3 @@
     - * *clear* - clear terminal (OR You can press **Ctrl + L**)
 
 
-
