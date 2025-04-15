@@ -1,4 +1,4 @@
-# DAY 3 - 12/04/2025
+# DAY 3 - 17/04/2025
 
 def main():
     guess = int(get_guess())

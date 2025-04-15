@@ -1,7 +1,34 @@
-## DAY 004 - 13/04/2025
-# 
+## DAY 004 - 18/04/2025
+# CS50P: Introduction To Programming with Python**
+
+# LECTURE 1 -CONDITIONALS
+
+###
+#IF:
+x = int(input("What's x? "))
+y = int(input("What's y? "))
+
+if x < y:
+    print("x is less than y")
+elif x > y:
+    print("x is greater than y")
+else:
+    print("x is equal to y")
+
+########
+# OR:
+x = int(input("What's x? "))
+y = int(input("What's y? "))
+
+if x < y or x > y:
+    print("x is not equal to y")
+else:
+    print("x is equal to y")
 
 
+
+
+######
 def greet(input):
     if "hello" in input:
         return "hello there!"
@@ -14,7 +41,7 @@ print(greeting)
 # hello there
 
 
-#
+###
 x = int(input("What's x?: "))
 
 if x % 2 == 0:
@@ -22,8 +49,7 @@ if x % 2 == 0:
 else:
     print("Odd")
 
-#
-
+###
 def main():
     x = int(input("What's x?: "))
     if is_even(x):
