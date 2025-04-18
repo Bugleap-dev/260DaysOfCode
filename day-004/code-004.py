@@ -39,14 +39,6 @@ else:
     print("X is equal to y")
 
 ######
-
-greeting = greet("hello, computer")
-print(greeting)
-#Output 
-# hello there
-
-
-###
 x = int(input("What's x?: "))
 
 if x % 2 == 0:
@@ -190,4 +182,7 @@ def main():
 
 def recommend(game):
     print(f"You might like, {game}")
+
+
+main()
 
