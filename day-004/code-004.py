@@ -19,7 +19,6 @@ else:
 ##Output: x is less than y
 
 ########
-
 # OR:
 x = int(input("What's x? "))
 y = int(input("What's y? "))
