@@ -45,3 +45,50 @@ Executes a block of code if a specified condition is `True`.
 x = 10
 if x > 5:
     print("x is greater than 5")
+```
+### `elif` (Else If)
+Checks another condition if the previous if (or elif) was False.
+
+Logical Operators
+or
+Returns True if at least one condition is True.
+
+```python
+x = 5
+if x < 3 or x > 4:
+    print("x is either less than 3 or greater than 4")
+```
+
+### `and`
+Returns True only if both conditions are True.
+```python
+x = 5
+if x > 3 and x < 10:
+    print("x is between 3 and 10")
+```
+
+### Boolean Type
+`bool`
+The bool type represents one of two values: True or False.
+```python
+is_active = True
+print(bool(0))   # False
+print(bool(5))   # True
+```
+
+### Pattern Matching
+`match` Statement
+Introduced in Python 3.10. It checks a value against different cases (similar to switch in other languages).
+
+```python
+command = "start"
+
+match command:
+    case "start":
+        print("Starting the system...")
+    case "stop":
+        print("Stopping the system...")
+    case _:
+        print("Unknown command")
+case _: acts as a default if no other case matches.
+```
