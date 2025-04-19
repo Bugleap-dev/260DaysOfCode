@@ -165,7 +165,7 @@ def main():
         print("Enter a valid number of player ")
         return
     
-    difficulty = input("Difficult or Easy")
+    difficulty = input("Difficult or Easy: ")
     if not (difficulty == "Difficult" or "Easy"):
         print("Enter a valid difficulty ")
         return
