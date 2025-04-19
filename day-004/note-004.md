@@ -2,12 +2,7 @@
 
 **CS50P: Introduction To Programming with Python**
 
-## **LECTURE 1 - CONDITIONALS **
-![Day Badge](https://img.shields.io/badge/Progress-Day%20004-blue)
-![Progress Badge](https://img.shields.io/badge/Progress-Day%20004-blue)
-![Topic Badge](https://img.shields.io/badge/Topic-Conditionals-green)
-![Status Badge](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+## LECTURE 1 - CONDITIONALS
 
 ## Table of Contents
 1. [Comparison Operators](#comparison-operators)
