@@ -2,11 +2,7 @@
 
 **CS50P: Introduction To Programming with Python**
 
-## **LECTURE 1 -CONDITIONALS **
-
-
-
-# Python Conditionals and Related Concepts
+## **LECTURE 1 - CONDITIONALS **
 
 ## Table of Contents
 1. [Comparison Operators](#comparison-operators)
