@@ -4,6 +4,14 @@
     
 # **LECTURE 0: Function_Variable**
 
+## Table of Contents
+1. [Definition](#Definition)
+2. [Parameters](##Parameters)
+3. [Difference between Arguments and Parameters](#differnce-between-arguments-and-parameters)
+4. [Differnce between using Comma and plus for Concatenation](#differnce-between-using-comma-and-plus--for-concatenation)
+
+---
+# Definition
 - **$code hello.py**: Creates a file "hello" in python(py) format
 
 - **Syntax**: refers to the sedof rules that defines hoe code must be written for the computer to understand it, i.e Syntax = the rules for writing code correctly.
@@ -26,17 +34,17 @@
 
 - **Pseudo-code**: is plain English, half code outline describing a program's logic, serving as a blueprint before writing actual code, using the **Hash (#)** for comments.
 
-- **Parameters**: are variables used in function definitions to accept input values when the function is called.
+## **Parameters**: are variables used in function definitions to accept input values when the function is called.
     * Name parameter: parameters that must be passed in the correct order.
     * Position parameter: parameters with default values, used if no argument is provided.
 
-- ***DIFFERNCE BETWEEN ARGUMENTS AND PARAMETERS***
+### ***DIFFERNCE BETWEEN ARGUMENTS AND PARAMETERS***
    * Parameters acts a placeholder for the values that will be passed.
    * While Arguments are actual values passed to the function when you call it.
 
 - **Concatenation**: the process of joining two or more string into a new string. This is done using operators the ***plus operator (+).***
 
-- ***DIFFERNCE BETWEEN USING COMMA(,) AND PLUS (+) FOR CONCATENATION***
+### ***DIFFERNCE BETWEEN USING COMMA(,) AND PLUS (+) FOR CONCATENATION***
    * Using + (Concatenation Operator): joins strings together with no space. Both operands must be string.
    * Using , (concatenation operator): Automatically adds a space between items. Can mix data types(e.g string and int without conversion).
 

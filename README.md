@@ -11,7 +11,7 @@ I'm documenting my journey as I learn **blockchain, AI, and full-stack developme
 1️⃣  **CS50P - Python Fundamentals:**
    * Description: Introduction to programming using Python, covering data structures, algorithms, and object-oriented programming.
    * Resources: Harvard's CS50P online course on edX. [CS50P on edX](https://cs50.harvard.edu/python/)
-   * Duration: 4 weeks
+   * Duration: 6 weeks
 
 2️⃣  **CS50X - Computer Science Basics:**
    * Description: A broader introduction to computer science concepts, including algorithms, data structures, memory management, and more.
@@ -67,14 +67,14 @@ I'm documenting my journey as I learn **blockchain, AI, and full-stack developme
 ```bash
 270DaysOfCode/
 │── day-001/
-│   ├── notes.md
-│   ├── code.py
+│   ├── notes-001.md
+│   ├── code-001.py
 │── day-002/
-│   ├── notes.md
-│   ├── project.js
+│   ├── notes-002.md
+│   ├── code-002.py
 │── day-.../
-│   ├── notes.md
-│   ├── code.py
+│   ├── notes-.md
+│   ├── code-.py
 │── projects/
 │── docs/
 │── README.md
