@@ -1,83 +1,63 @@
-# EXERCISE:
-#Exercise 1: Temperature Converter
+# DAY 007 - 21/04/2025
+# CS50P: Introduction To Programming with Python
+
+# LECTURE 1 -CONDITIONALS
+
+#SHORTS - CONDITIONALS
 
 def main():
-    temp = input("Enter temperature (Celsius to Fahrenheit and vice-versa): ")      #Receives input from user
-    temp = temp.strip().lower()                                                             #Removes leading and trailing whitespaces
+    players = input("Multiplayer or Single-player: ")
+    difficulty = input("Difficult or Easy")
 
-    if temp.endswith("c"):                                                          #If the user inputs a degree celsius or C
-        celsius_replace = temp.lower().replace("°c", "").replace("c", "" )
-        float_celsius = float(celsius_replace.strip())
+    if difficulty == "Difficult":
+        if players == "Multiplayer":
+            recommend("Poker")
+        elif players == "Single-player":
+            recommend("Klondike")
+        else:
+            print("Enter a valid number of players: ")
+            
 
-        print(f"{float_celsius} Celsius is equal to {celsius_to_fahrenheit(float_celsius):.2f} Fahrenheit")
-
-    elif temp.endswith("f"):
-        fahrenheit_replace = temp.lower().replace("°f", "").replace("f", "" )
-        float_fahrenheit = float(fahrenheit_replace.strip())
-
-        print(f"{fahrenheit_to_celsius(float_fahrenheit):.2f} Fahrenheit is equal to {float_fahrenheit} celsius")
-    else:
-        print("Enter a degree in either celsius of fahrenheit!")
-
-def celsius_to_fahrenheit(degree):
-    return (degree * (9/5)) + 32
-
-def fahrenheit_to_celsius(degree): 
-    return (degree - 32) * (5/9)
+    elif difficulty == "Easy":
+        if players == "Multiplayer":
+            recommend("Hearts")
+        elif players == "Caasual":
+            recommend("Clock")
+        else:
+            print("Enter a valid number of players: ")
     
 
+def recommend(game):
+    print(f"You might like, {game}")
+
+    
 main()
 
-##################
-
-#Exercise 2:  Tip Calculator
-
+##############
 def main():
-    meal = input("What is the total meal cost? ")
-    percent = input("What percentage would you like to tip? ")
-    people = float(input("How many people? ").strip())
+    players = input("Multiplayer or Single-player: ")
+    if not (players == "Multiplayer" or "Single-player"):
+        print("Enter a valid number of player ")
+        return
+    
+    difficulty = input("Difficult or Easy: ")
+    if not (difficulty == "Difficult" or "Easy"):
+        print("Enter a valid difficulty ")
+        return
 
-    meal = meal.lower().strip().replace("$", "")
-    float_meal = float(meal.strip())
-
-    percent = percent.lower().strip().replace("%", "")
-    float_percent = float(percent.strip())
-
-    return_percent = percentage(float_percent)
-    return_meal = meal_and_tip(float_meal,return_percent)
-    return_splitting = split(return_meal,people)
-
-    print(f"Each person should pay: $ {return_splitting:.2f}")
-
-
-def percentage(amount):
-    return amount / 100
-
-def meal_and_tip(meal,tip):
-    return (meal * tip) + meal
-
-def split(amount,number):
-    return amount / number
-
-main()
-
-# Exercise 3: Unit Converter
-def main():
-    distance = input("Enter distance in kilometers: ")
-    distance = distance.strip()
-    if "km" in distance:
-        remove_km = distance.lower().replace("km", "").strip()
-        print(f"{remove_km} kilometers is equal to {kilometer(remove_km):.3f} miles")
+    if difficulty == "Difficult" and players == "Multiplayer":
+        recommend("Poker")
+    elif difficulty == "Difficult" and players == "Sinle-player":
+        recommend("Klondike")
+    elif difficulty == "Easy" and players == "Multiplayer":
+        recommend("Hearts")
     else:
-        convert = kilometer(distance)
-        print(f"{distance} kilometers is equal to {convert:.3f} miles")
+        recommend("Clock")
+        
 
-
-def kilometer(km):
-    float_km = float(km)
-    return (float_km * 5) /  3.107
+def recommend(game):
+    print(f"You might like, {game}")
 
 
 main()
 
-##########

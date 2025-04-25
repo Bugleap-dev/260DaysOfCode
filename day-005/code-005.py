@@ -1,102 +1,30 @@
+# DAY 005 - 19/04/2025
+# CS50P: Introduction To Programming with Python
 
+# LECTURE 1 -CONDITIONALS
 
-x = int(input("What's x? "))
-y = int(input("What's y? "))
+#IF:
+x = int(input("What's x? "))        #Output: What's x? 3
+y = int(input("What's y? "))        #Output: What's y? 5
 
-if x!=y:
+if x < y:
+    print("x is less than y")
+elif x > y:
+    print("x is greater than y")
+else:
+    print("x is equal to y")
+
+##Output: x is less than y
+
+########
+
+# OR:
+x = int(input("What's x? "))        #Output: What's x? 3
+y = int(input("What's y? "))        #Output: What's y? 5
+
+if x < y or x > y:
     print("x is not equal to y")
 else:
-    print("X is equal to y")
+    print("x is equal to y")
 
-######
-
-x = int(input("What's x?: "))
-
-if x % 2 == 0:
-    print("Even")
-else:
-    print("Odd")
-
-#####
-
-def main():
-    x = int(input("What's x?: "))
-    if is_even(x):
-        print("Even")
-    else:
-        print("Odd")        
-
-
-def is_even(n):
-    if n % 2 ==0:
-        return True
-    else:
-        return False
-    
-main()
-
-#####
-
-def main():
-    x = int(input("What's x?: "))
-    if is_even(x):
-        print("Even")
-    else:
-        print("Odd")        
-
-
-def is_even(n):
-    return True if n % 2 == 0 else False
-
-main()
-
-######
-
-def main():
-    x = int(input("What's x?: "))
-    if is_even(x):
-        print("Even")
-    else:
-        print("Odd")        
-
-
-def is_even(n):
-    return n % 2 == 0
-
-main()
-
-######
-
-name = input("What's your name: ")
-if name == "Harry" or name == "Hermione" or name == "Ron":
-    print("Griffindor")
-elif name == "Draco":
-    print("Slytherin")
-else:
-    print("Who?")
-
-######
-
-name = input("What's your name: ")
-match name:
-    case "Harry":
-        print("Gryffindor")
-    case "Hermione":
-        print("Gryffindor")
-    case "Ron":
-        print("Gryffindor")
-    case "Draco":
-        print("Slytherin")
-    case _:
-        print("Who?")
-
-######
-
-name = input("What's your name: ")
-match name:
-    case "Harry"|"Hermione"|"Ron":
-        print("Gryffindor")
-    case "Draco":
-        print("Slytherin")
-    case _:
-        print("Who?")
+#Output: x is not equal to y

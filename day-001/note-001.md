@@ -34,9 +34,11 @@
 
 - **Pseudo-code**: is plain English, half code outline describing a program's logic, serving as a blueprint before writing actual code, using the **Hash (#)** for comments.
 
-## **Parameters**: are variables used in function definitions to accept input values when the function is called.
-    * Name parameter: parameters that must be passed in the correct order.
-    * Position parameter: parameters with default values, used if no argument is provided.
+## **Parameters**
+- Parameters: are variables used in function definitions to accept input values when the function is called.
+
+- * Name parameter: parameters that must be passed in the correct order.
+- * Position parameter: parameters with default values, used if no argument is provided.
 
 ### ***DIFFERNCE BETWEEN ARGUMENTS AND PARAMETERS***
    * Parameters acts a placeholder for the values that will be passed.
@@ -50,9 +52,10 @@
 
 **FROM PYTHON DOCUMENATION:**
 - *docs.python.org/3/library/functions.html*
-
-- Print() Syntax: 
-- ``` print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)```
+    - Print() Syntax: 
+    ```python
+    print(*objects,sep=' ',end='\n',file=sys.stdout,flush=False)
+    ```
 
  - * *objects : the values to be printed. Can be multiple items.
     - * sep='' : seperator between the objects(default is a space).

@@ -6,11 +6,11 @@ CONTINUATION OF **LECURE 0: Function_Variable**
 
 ## Table of Contents
 1. [String](#string)
-2. [Integer and float](#--integer-and-float)
+2. [Integer and float](#integer-and-float)
 3. [Python Interactive mode](#python-interactive-mode)
 4. [Round function](#round-function)
    - [Round half or Banker's rounding](#round-half)
-5. [Def function](#---def-function)
+5. [Def function](#-def-function)
 6. [Return](#return-statement)
 7. [Return VS Print Function](#return-vs-print)
 
@@ -34,7 +34,7 @@ CONTINUATION OF **LECURE 0: Function_Variable**
    - * .title(): capitalizes the first letter of each word in a string while converting the rest to lowercase. 
    - * .split(): is used to split a string into a list based in a separator(like a space or comma)
 
-## - **INTEGER AND FLOAT**
+## **INTEGER AND FLOAT**
 - Integers are whole numbers without a decimal point, e.g, 1, -5, 100, 0, etc.
 - Float are numbers with a decimal point or in exponential form, properly called a floating point value, e.g, 3.14, -0.5, 2.0, 1e3,3e5,etc.
 
@@ -88,7 +88,7 @@ CONTINUATION OF **LECURE 0: Function_Variable**
 ### Round Half():
    Python uses a rule called ***ROUND HALF TO EVEN***, ALSO KNOWN AS ***BANKER'S ROUNDING*** If a number is exactly halfway between two integers (like -2.5 is between -2 and -3 ), ***python will round to the nearest even number.***
 
-### - * **DEF FUNCTION:**
+### * **DEF FUNCTION:**
    - * def is used to define a function.
 
 ### **RETURN statement:**
