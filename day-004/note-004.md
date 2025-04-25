@@ -2,4 +2,4 @@
 
 **CS50P: Introduction To Programming with Python**
 
-![Pset 0](pset_0.png)
+![Pset 0](pset0.png)
