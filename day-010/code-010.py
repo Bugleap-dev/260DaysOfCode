@@ -88,7 +88,7 @@ def get_number():
     while True:
         n = int(input("What's n?: "))
         if n > 0:
-            break                       #OR USE:    retun n
+            break                       #OR YOU CAN USE:    retun n
     return n                            #BECAUSE RETURN CAN BE USED TO BREAK OUT OF A LOOP AND END A FUNCITON
 
 def meow(n):

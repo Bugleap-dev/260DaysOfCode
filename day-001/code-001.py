@@ -3,8 +3,6 @@
 
 #LECTURE 0: Function_Variable
 
-####
-
 print()
 # This creates a new blank line.
 

@@ -19,62 +19,6 @@ def get_guess():
 
 main()
 
-#####
-
-SHOWS = [
-    "  Avater: The last Airbender",
-    "ben 10",
-    "arthur",
-    "   spongebob Square pants",
-    "phineas and ferb",
-    "Kim possible  ",
-    "Jimmy Neutron  ",
-    "The proud family"
-]
-
-def main():
-    for show in SHOWS:
-        print(show.strip().title())
-
-main()
-#Output:
-"""
-Avater: The Last Airbender
-Ben 10
-Arthur
-Spongebob Square Pants
-Phineas And Ferb
-Kim Possible
-Jimmy Neutron
-The Proud Family
-"""
-
-#####
-def main():
-    cleaned_shows = []
-    for show in SHOWS:
-        cleaned_shows.append(show.strip().title())
-    print(cleaned_shows)
-
-main()
-
-# Output:
-#['Avater: The Last Airbender', 'Ben 10', 'Arthur', 'Spongebob Square Pants', 'Phineas And Ferb', 'Kim Possible', 'Jimmy Neutron', 'The Proud Family']
-
-
-#####
-def main():
-    cleaned_shows = []
-    for show in SHOWS:
-        cleaned_shows.append(show.strip().title())
-    
-    print(", ".join(cleaned_shows))
-
-main()
-
-# Output:
-# Avater: The Last Airbender, Ben 10, Arthur, Spongebob Square Pants, Phineas And Ferb, Kim Possible, Jimmy Neutron, The Proud Family
-
 
 ### SIDE EFFECT:
 
